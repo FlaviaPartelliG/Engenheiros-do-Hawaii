@@ -1,5 +1,3 @@
-<img width="980" height="496" alt="image" src="https://github.com/user-attachments/assets/d0f1ca96-f58b-4bb4-882b-831b010193fe" /><img width="980" height="496" alt="image" src="https://github.com/user-attachments/assets/e93c2a32-dbe2-4ebb-9d64-3761b382f22d" /><img width="980" height="496" alt="image" src="https://github.com/user-attachments/assets/de52369c-391d-4a1a-b8ee-1d3c623061c1" /># Análise de Letras: Engenheiros do Hawaii com NLP
-
 **Instituição:** IFES
 **Disciplina:** Tópicos Especiais em Banco de Dados
 **Grupo:** Flávia Partelli e Nadson da Cruz
@@ -54,7 +52,7 @@ O modelo foi capaz de agrupar músicas que compartilham a temática da **solidã
 * **Métrica Utilizada:** **Frequência de Termo (TF)** - contagem absoluta de aparições.
 
 **Visualização (Print/Gráfico):**
-![Nuvem de Palavras]([INSIRA AQUI O LINK DA IMAGEM DA NUVEM.png])
+![Nuvem de Palavras](<img width="980" height="496" alt="image" src="https://github.com/user-attachments/assets/e93c2a32-dbe2-4ebb-9d64-3761b382f22d" />)
 
 **Resultados Quantitativos:**
 As palavras com maior frequência absoluta foram:
