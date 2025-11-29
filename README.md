@@ -1,7 +1,7 @@
 # Análise de Letras: Engenheiros do Hawaii
 
-**Grupo:** Flávia Partelli e Nadson da Cruz
-**Disciplina:** Tópicos Especiais em Banco de Dados
+**Grupo:** [Flávia Partelli e Nadson da Cruz]
+**Disciplina:** [Tópicos Especiais em Banco de Dados]
 
 ## 1. Visão Geral
 Este projeto analisa as letras da banda Engenheiros do Hawaii utilizando técnicas de Processamento de Linguagem Natural (NLP) e Inteligência Artificial Generativa. O objetivo foi identificar padrões temáticos e verificar a capacidade de interpretação de modelos de IA sobre a obra de Humberto Gessinger.
@@ -13,7 +13,7 @@ Este projeto analisa as letras da banda Engenheiros do Hawaii utilizando técnic
 ### Experimento 1: Nuvem de Palavras e Temas Dominantes
 **Objetivo:** Identificar o vocabulário mais frequente nas letras.
 **Resultado Visual:**
-![Nuvem de Palavras](link_da_imagem_ou_caminho_do_arquivo.png)
+![Nuvem de Palavras](nuvemPalavras.png)
 
 **Análise:**
 As palavras mais frequentes foram "Mundo", "Vida", "Tempo" e "Sempre". Isso confirma o viés existencialista da banda, focada na passagem do tempo e no lugar do indivíduo no mundo.
